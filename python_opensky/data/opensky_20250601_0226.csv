@@ -1,0 +1,26 @@
+timestamp,icao24,callsign,origin_country,time_position,last_contact,longitude,latitude,baro_altitude,geo_altitude,on_ground,velocity,true_track,vertical_rate,sensors,squawk,spi,position_source
+2025-06-01 02:12:07,48548d,KLM25M,Kingdom of the Netherlands,1748743900,1748743900,4.7603,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:13:04,48548d,KLM25M,Kingdom of the Netherlands,1748743900,1748743900,4.7603,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:14:04,48548d,KLM25M,Kingdom of the Netherlands,1748744041,1748744041,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:14:57,48548d,KLM25M,Kingdom of the Netherlands,1748744041,1748744085,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:16:03,48548d,KLM25M,Kingdom of the Netherlands,1748744131,1748744131,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:16:59,48548d,KLM25M,Kingdom of the Netherlands,1748744131,1748744131,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:18:06,48529a,,Kingdom of the Netherlands,1748744283,1748744283,4.7435,52.311,,,True,8.23,2.81,,,,False,0
+2025-06-01 02:18:06,48548d,KLM25M,Kingdom of the Netherlands,1748744267,1748744272,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:19:09,48529a,,Kingdom of the Netherlands,1748744324,1748744324,4.7437,52.3141,,,True,8.23,2.81,,,,False,0
+2025-06-01 02:19:09,48548d,KLM25M,Kingdom of the Netherlands,1748744267,1748744272,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:20:07,48529a,,Kingdom of the Netherlands,1748744380,1748744380,4.7439,52.318,,,True,4.12,315.0,,,,False,0
+2025-06-01 02:20:07,48548d,KLM25M,Kingdom of the Netherlands,1748744267,1748744272,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:21:07,48529a,,Kingdom of the Netherlands,1748744380,1748744380,4.7439,52.318,,,True,4.12,315.0,,,,False,0
+2025-06-01 02:21:07,48548d,KLM25M,Kingdom of the Netherlands,1748744267,1748744272,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:22:02,48529a,,Kingdom of the Netherlands,1748744380,1748744380,4.7439,52.318,,,True,4.12,315.0,,,,False,0
+2025-06-01 02:22:02,48548d,KLM25M,Kingdom of the Netherlands,1748744267,1748744272,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:23:07,48529a,,Kingdom of the Netherlands,1748744380,1748744380,4.7439,52.318,,,True,4.12,315.0,,,,False,0
+2025-06-01 02:23:07,48548d,KLM25M,Kingdom of the Netherlands,1748744267,1748744566,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:24:05,48529a,,Kingdom of the Netherlands,1748744380,1748744380,4.7439,52.318,,,True,4.12,315.0,,,,False,0
+2025-06-01 02:24:05,48548d,KLM25M,Kingdom of the Netherlands,1748744635,1748744636,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:25:05,485261,,Kingdom of the Netherlands,1748744674,1748744674,4.7419,52.3045,,,True,6.94,2.81,,,,False,0
+2025-06-01 02:25:05,48548d,KLM25M,Kingdom of the Netherlands,1748744635,1748744656,4.7602,52.3031,,,True,0.0,239.06,,,,False,0
+2025-06-01 02:26:01,4bb18e,THY84C,Turkey,1748744760,1748744761,4.0793,52.2335,11269.98,11490.96,False,265.53,115.72,-0.33,,2262,False,0
+2025-06-01 02:26:01,485261,,Kingdom of the Netherlands,1748744715,1748744715,4.7422,52.307,,,True,6.69,2.81,,,,False,0
+2025-06-01 02:26:01,48548d,KLM25M,Kingdom of the Netherlands,1748744755,1748744760,4.7602,52.303,,,True,0.0,239.06,,,,False,0
